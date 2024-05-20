@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Lea\Documents\opcpp\Projekti\Connect4\Connect4\Igra.h(327): warning C4715: 'Igra::MinMax': not all control paths return a value
+  Connect4.vcxproj -> C:\Users\Lea\Documents\opcpp\Projekti\Connect4\x64\Debug\Connect4.exe
